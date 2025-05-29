@@ -1,0 +1,2 @@
+# .glbclassroom
+.glb classroom model
